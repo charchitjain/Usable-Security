@@ -55,17 +55,17 @@ First "screen" for entering PIN contains menu of 10 numbers with the focus on di
     
 You are selecting numbers by scrolling left or right with the wheel. If you reach left or right end of the menu you can still continue in chosen direction and focus will move to the opposite side of the menu. It rolls around. When the focus, rectangle around the digit; is on the right number press button to confirm it.
 
-When the first digit is selected (by the wheel) and confirmed (by the button) on the left side of the menu will appear the back arrow which works as backspace. Focus is still on the last number selected. (see Figure 4: pict. 3):
+When the first digit is selected (by the wheel) and confirmed (by the button) on the left side of the menu will appear the back arrow which works as a backspace. Focus is still on the last number selected. (see Figure 4: pict. 3):
 
     ← [1] 2 3 4 5 6 7 8 9 0
 
 If the first number is deleted (by that backspace) arrow will disappear.
 
-After 4^th^ selected and confirmed number, on the rights side of the menu will appear the OK button which will immediately take the focus. (see Figure 4: pict. 4):
+After 4<sup>th</sup> selected and confirmed number, on the rights side of the menu will appear the OK button which will immediately take the focus. (see Figure 4: pict. 4):
 
     ← 1 2 3 4 5 6 7 8 9 0 [OK]
 
-If you are happy with the entered PIN you can straight confirm it with the button, without any scrolling. And if you are not happy backspace is only one wheel move away. If you delete that 4^th^ PIN number OK button will disappear.
+If you are happy with the entered PIN you can straight confirm it with the button, without any scrolling. And if you are not happy, backspace is only one wheel move away. If you delete that 4^th^ PIN number OK button will disappear.
 
 ### Summary
 
@@ -80,4 +80,4 @@ If you are happy with the entered PIN you can straight confirm it with the butto
 * it's almost impossible or at least impractical to use it with one hand only. If the wheel was "press-able" and fulfills also the button role, it would be possible to use it with one hand and maybe the device could be even smaller. However that probably could be more error prone.
 * device is oriented for a right-handed users.
 * display, due to the battery life; doesn't have any backlight so it's harder to read the numbers in worse light conditions. It might be a problem for visually impaired users.
-* also this is not a device for blind users as the only tactile of audio feed back is the mechanical click of the wheel.
+* also this is not a device for blind users as the only tactile or audio feed back is the mechanical click of the wheel.
